@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirilyanev&label=Profile%20views&color=0e75b6&style=flat" alt="kirilyanev" /> </p>
 
--  I’m currently learning **React**
+-  I’m currently learning **React** and **TypeScript**
 
 -  How to reach me **kl_yanev@abv.bg**
 
