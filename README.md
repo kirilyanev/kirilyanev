@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirilyanev&label=Profile%20views&color=0e75b6&style=flat" alt="kirilyanev" /> </p>
 
--  How to reach me **kl_yanev@abv.bg**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/кирил янев" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="кирил янев" height="30" width="40" /></a>
